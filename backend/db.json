@@ -1,0 +1,75 @@
+{ "allDishes" : [
+   {
+      "id": 1,
+      "title": "Masala Dosa",
+      "category": "breakfast",
+      "price": 120,
+      "img": "assets/images/masala-dosa.jpeg",
+      "desc": "Thin and crispy crepe made from fermented rice and lentil batter, filled with spiced potato filling."
+    },
+    {
+      "id": 2,
+      "title": "Butter Chicken",
+      "category": "dinner",
+      "price": 299,
+      "img": "assets/images/butter-chicken.jpg",
+      "desc": "Tender pieces of chicken cooked in a creamy tomato-based sauce with butter and Indian spices."
+    },
+    {
+      "id": 3,
+      "title": "Mango Lassi",
+      "category": "shakes",
+      "price": 80,
+      "img": "assets/images/mango-lassi.webp",
+      "desc": "A refreshing yogurt-based drink blended with ripe mangoes, sugar, and a hint of cardamom."
+    },
+    {
+      "id": 4,
+      "title": "Aloo Paratha",
+      "category": "breakfast",
+      "price": 32,
+      "img": "assets/images/aloo-paratha.jpg",
+      "desc": "Whole wheat flatbread stuffed with a spicy mashed potato filling, cooked until golden brown."
+    },
+    {
+      "id": 5,
+      "title": "Chicken Biryani",
+      "category": "lunch",
+      "price": 350,
+      "img": "assets/images/chicken-biryani.jpg",
+      "desc": "Fragrant basmati rice cooked with marinated chicken, aromatic spices, and caramelized onions."
+    },
+    {
+      "id": 6,
+      "title": "Mango Kulfi",
+      "category": "desserts",
+      "price": 35,
+      "img": "assets/images/mango-kulfi.jpeg",
+      "desc": "Creamy and rich frozen dessert made with reduced milk, sugar, and fresh mango puree."
+    },
+    {
+      "id": 7,
+      "title": "Paneer Tikka",
+      "category": "appetizers",
+      "price": 199,
+      "img": "assets/images/paneer-tikka.jpg",
+      "desc": "Chunks of paneer marinated in yogurt and spices, skewered and grilled until charred and smoky."
+    },
+    {
+      "id": 8,
+      "title": "Chole Bhature",
+      "category": "lunch",
+      "price": 199,
+      "img": "assets/images/chole-bhature.jpg",
+      "desc": "Spicy chickpea curry served with deep-fried fluffy bread, known as bhature."
+    },
+    {
+      "id": 9,
+      "title": "Mango Phirni",
+      "category": "desserts",
+      "price": 129,
+      "img": "assets/images/mango-phirni.jpg",
+      "desc": "Creamy rice pudding flavored with mango pulp, saffron, and cardamom, served chilled."
+    }
+]
+}
